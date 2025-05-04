@@ -62,8 +62,6 @@ Some children travelled only with a nanny, therefore Parch = 0 for them.
 
 ## This project uses the Titanic dataset to train and evaluate machine learning models. Here's a breakdown:
 
-1. EDA
-
 1. Exploratory Data Analysis (EDA)
 
 The EDA phase provided insights into the Titanic dataset's structure, feature relationships, and survival patterns. Here's a summary of the key findings and methods used:
