@@ -92,7 +92,7 @@ The EDA phase provided insights into the Titanic dataset's structure, feature re
 - Age vs Multiple Features: Trends showed older passengers were more likely to be in upper classes and have cabins.
 - Scatter (Age vs Fare): Survivors often paid higher fares and were in upper classes.
 - Boxplot (Fare vs Sex vs Survival): Females generally paid higher fares and had better survival rates.
-- Embarked vs Survival: Passengers from Cherbourg had higher survival rates.
+
 **🔥 Correlation & Pairplot**
 
 *Correlations:*
