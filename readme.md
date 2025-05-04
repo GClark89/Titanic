@@ -60,7 +60,7 @@ Some children travelled only with a nanny, therefore Parch = 0 for them.
 
 # 🔍 Project Steps Explained 
 
-## This project uses the Titanic dataset to train and evaluate machine learning models. Here's what happens step by step:
+## This project uses the Titanic dataset to train and evaluate machine learning models. Here's a breakdown:
 
 1. Data Cleaning & Feature Engineering
  - We handle missing values, convert text data into numbers (like Sex and Embarked), and scale numeric columns to make the data model-ready.
