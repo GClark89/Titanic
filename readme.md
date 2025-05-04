@@ -87,6 +87,7 @@ The EDA phase provided insights into the Titanic dataset's structure, feature re
 - Survival vs Pclass: lower class passengers had the highest death rate; upper class had the highest survival.
 - Fare Distribution: Right-skewed with a few very high values, often associated with upper class.
 - Family Features (SibSp, Parch): Most traveled alone or with 1–2 relatives.
+
 **📈 Multivariate Analysis**
 - Age vs Multiple Features: Trends showed older passengers were more likely to be in upper classes and have cabins.
 - Scatter (Age vs Fare): Survivors often paid higher fares and were in upper classes.
