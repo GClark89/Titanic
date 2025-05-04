@@ -136,3 +136,4 @@ Each model is tested to see how well it predicts who survived.
 After selecting and tuning the best model, we use it to make predictions on the test data.
 
 # To see my results, all aboard and enjoy the voyage!!!
+(https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2010/03/GettyImages-590676055.jpg)
